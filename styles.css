@@ -27,7 +27,7 @@ body {
   
   .pdf-container iframe {
     width: 100%;
-    height: 600px;
+    height: 500px;
   }
   
   .sparkling-background {
@@ -70,4 +70,8 @@ body {
   50% {
     opacity: 0.3;
   }
+}
+
+.texte{
+  color: lightpink;
 }
